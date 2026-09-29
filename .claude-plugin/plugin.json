@@ -9,7 +9,10 @@
     "url": "https://seocrawl.ai"
   },
   "homepage": "https://seocrawl.ai/mcp",
-  "privacyPolicyUrl": "https://seocrawl.ai/legal",
+  "documentationUrl": "https://github.com/SEOcrawl/seocrawl-reports-plugin#readme",
+  "supportUrl": "https://seocrawl.ai/contact",
+  "privacyPolicyUrl": "https://seocrawl.ai/legal/privacy-policy",
+  "termsOfServiceUrl": "https://seocrawl.ai/legal",
   "repository": "https://github.com/SEOcrawl/seocrawl-reports-plugin",
   "license": "MIT",
   "keywords": [
