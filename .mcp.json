@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "seocrawl": {
+      "type": "http",
+      "url": "https://mcp.seocrawl.ai"
+    }
+  }
+}
