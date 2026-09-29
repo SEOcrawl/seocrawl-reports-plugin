@@ -1,0 +1,15 @@
+{
+  "name": "seocrawl-reports",
+  "displayName": "SEOcrawl AI Reports",
+  "version": "0.1.0",
+  "description": "Client-ready SEO and GEO (AI visibility) reports built from your live SEOcrawl AI data: Search Console performance, AI assistant share of voice, Crawler health and agency client reports.",
+  "author": {
+    "name": "SEOcrawl SL",
+    "email": "info@seocrawl.com",
+    "url": "https://seocrawl.ai"
+  },
+  "homepage": "https://seocrawl.ai/mcp",
+  "repository": "https://github.com/SEOcrawl/seocrawl-reports-plugin",
+  "license": "MIT",
+  "keywords": ["seo", "geo", "ai-visibility", "google-search-console", "reporting", "agency", "llm-tracking"]
+}
