@@ -28,7 +28,7 @@ This plugin contains instructions (skills) and one connector declaration. It doe
 - **Write actions**: the skills only read data, with three exceptions that Claude confirms with you first: `generate_report` (creates a public snapshot link of a saved SEOcrawl report), `create_prompt` (adds AI Tracker prompts) and `trigger_site_audit_crawl` (starts a crawl).
 - **Credits**: SEOcrawl AI tools use your account credits; each tool lists its cost. The skills fetch only what each report needs.
 
-Privacy policy: [seocrawl.ai/legal](https://seocrawl.ai/legal). Connector documentation: [seocrawl.ai/mcp](https://seocrawl.ai/mcp).
+Privacy policy: [seocrawl.ai/legal/privacy-policy](https://seocrawl.ai/legal/privacy-policy). Terms: [seocrawl.ai/legal](https://seocrawl.ai/legal). Connector documentation: [seocrawl.ai/mcp](https://seocrawl.ai/mcp).
 
 ## Example prompts
 
