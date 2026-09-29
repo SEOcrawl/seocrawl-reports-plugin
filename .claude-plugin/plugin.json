@@ -9,7 +9,16 @@
     "url": "https://seocrawl.ai"
   },
   "homepage": "https://seocrawl.ai/mcp",
+  "privacyPolicyUrl": "https://seocrawl.ai/legal",
   "repository": "https://github.com/SEOcrawl/seocrawl-reports-plugin",
   "license": "MIT",
-  "keywords": ["seo", "geo", "ai-visibility", "google-search-console", "reporting", "agency", "llm-tracking"]
+  "keywords": [
+    "seo",
+    "geo",
+    "ai-visibility",
+    "google-search-console",
+    "reporting",
+    "agency",
+    "llm-tracking"
+  ]
 }
